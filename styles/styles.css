@@ -24,7 +24,7 @@
 :root {
   /* colors */
   --background-color: var(--brand-background-color, #f8fdff);
-  --dark-color: var(--brand-dark-color, #131313);
+  --dark-color: var(--brand-dark-color, #053f68);
   --light-color: var(--brand-light-color, #dcdcdc);
   --text-color: var(--brand-text-color, #053f68);
   --text-light: var(--brand-light-text-color, #ffffff);

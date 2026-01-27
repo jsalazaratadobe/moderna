@@ -3,7 +3,7 @@
 --------------------------- */
 .hero-container .hero-wrapper {
   max-width: unset;
-  padding: 0;
+  padding: 50px;
 }
 
 .hero {
@@ -150,7 +150,7 @@
 .hero.image-bottom {
   gap: 40px;
   padding: 0;
-  min-height: auto;
+  /* min-height: auto; */
 }
 
 
@@ -246,7 +246,7 @@ picture {
 .hero.image-right,
 .hero.image-top,
 .hero.image-bottom {
-  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+  /* box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15); */
   overflow: hidden;
 }
 .hero.image-left h2,

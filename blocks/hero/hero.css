@@ -3,8 +3,7 @@
 --------------------------- */
 .hero-container .hero-wrapper {
   max-width: unset;
-  padding: 50px;
-  margin-bottom: -200px;
+  padding: 50px, 50px, 0px, 50px;
 }
 
 .hero {

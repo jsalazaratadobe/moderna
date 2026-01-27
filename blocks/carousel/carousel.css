@@ -14,7 +14,7 @@
   max-width: initial;
 }
 .carousel-container .carousel-wrapper .carousel {
-  padding: 5%;
+  padding: 0px 50px 0px 50px;
   position: relative;
 }
 .carousel-container .carousel-wrapper .carousel > ul {
